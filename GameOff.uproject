@@ -21,6 +21,10 @@
 		{
 			"Name": "GitSourceControl",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
