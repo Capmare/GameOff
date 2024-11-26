@@ -20,3 +20,5 @@ enc_temp_folder
 *.xcodeproj
 *.xcworkspace
 *.log
+
+.DS_Store
